@@ -196,7 +196,7 @@ const StrukturKelas = () => {
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Keamanan" Nama="Frederick" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="K" Nama="Kenniro" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Kenniro" Width="120px" />
 					</div>
 
 					<div className="flex-col">
