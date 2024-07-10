@@ -45,7 +45,7 @@ const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="https://viii_roma.vercel.app/" class="hover:underline">
+									<a href="https://viiiroma.vercel.app/" class="hover:underline">
 										Website
 									</a>
 								</li>
