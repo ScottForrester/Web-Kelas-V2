@@ -40,12 +40,12 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/vii_kolose/?hl=id" class="hover:underline ">
+									<a href="https://www.instagram.com/viii_roma/?hl=id" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
 								<li>
-									<a href="https://viikolose.vercel.app/" class="hover:underline">
+									<a href="https://viii_roma.vercel.app/" class="hover:underline">
 										Website
 									</a>
 								</li>
@@ -65,7 +65,7 @@ const Footer = () => {
 				<div class="sm:flex sm:items-center sm:justify-between">
 					<div class="flex mt-4 justify-center sm:mt-0">
 						<p className="text-[0.7rem] text-white opacity-70">
-							© {new Date().getFullYear()} Kelas VII KOLOSE | Di Kelola Oleh Siswa VII KOLOSE
+							© {new Date().getFullYear()} Kelas VIII ROMA | Di Kelola Oleh Siswa VIII ROMA
 						</p>
 					</div>
 				</div>
